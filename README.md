@@ -97,8 +97,12 @@ MVPリリース時
 ## 画面遷移図
 Figma：https://www.figma.com/file/EJz9UAOMj3ESxwapGGZXii/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?type=design&node-id=0%3A1&mode=design&t=B51lIAeyaItBnvix-1
 
+
+## ER図
+Figma : https://www.figma.com/file/DBhOrSENRSOSDhQg1YImp7/ER%E5%9B%B3?type=design&mode=design&t=lD3Y8YEBsDPNqPlz-1
+
 ## 注意書き
 新規登録時はログイン状態でTOP画面へ戻る。
 パスワード再設定時は未ログイン状態でTOP画面orログイン画面へ戻る。
 各ページにはヘルプやTOP画面へのリンクを設定します。
-商品配達依頼機能は本リリース後、先方との相談の後、実装検討のため、画面遷移図からは外してあります。
+商品配達依頼機能は本リリース後、先方との相談の後、実装検討のため、画面遷移図及びER図からは外してあります。
