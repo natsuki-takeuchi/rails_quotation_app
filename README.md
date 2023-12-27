@@ -93,3 +93,12 @@ MVPリリース時
 書類をpdf化させるため、groverの使用を考えています。
 配達依頼システムにはgoogleカレンダーを連携させようと考えています。
 ユーザー認証はsorceryを用いるものとして設計していきます。
+
+## 画面遷移図
+Figma：https://www.figma.com/file/EJz9UAOMj3ESxwapGGZXii/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?type=design&node-id=0%3A1&mode=design&t=B51lIAeyaItBnvix-1
+
+## 注意書き
+新規登録時はログイン状態でTOP画面へ戻る。
+パスワード再設定時は未ログイン状態でTOP画面orログイン画面へ戻る。
+各ページにはヘルプやTOP画面へのリンクを設定します。
+商品配達依頼機能は本リリース後、先方との相談の後、実装検討のため、画面遷移図からは外してあります。
